@@ -47,7 +47,7 @@ new JustValidate('.form', {
       required: 'Введите номер карты',
     },
     date: {
-      required: 'Введите дату',
+      required: 'Выберете дату',
     },
     cvv: {
       required: 'CVV код',
